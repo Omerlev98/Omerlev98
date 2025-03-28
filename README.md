@@ -28,6 +28,8 @@
 
 ## 🚀 Projects
 
+![Project Screenshots](images/showcase.png)
+
 ### 📚 [BLib – Library Management System](https://github.com/Method-for-Software-System-Development/BLib4)
 > - Full-stack client-server Java application developed as part of a semester-long academic project in a six-person Agile Scrum team  
 > - Designed using UML (Use Case, Activity, Class, Sequence, and Package diagrams)  
@@ -44,13 +46,6 @@
 > - An interactive web page for movie reviews, allowing users to rate films, write and read reviews, and view IMDb ratings  
 > - Includes multilingual support using Google Translate integration  
 > - Built with HTML, CSS, and vanilla JavaScript, with focus on intuitive UX and responsive design
-
-## 🖼 Project Showcase
-
-![Project Screenshots](images/showcase.png)
-
-> 📝 *Above: Screenshots from various projects — GUI, CLI, and web applications*  
-> 👉 [View full-size image](./images/showcase.png)
 
 ## 👨‍🚀 About Me
 - 💡 Passionate about computers, programming, medicine, and aviation  
